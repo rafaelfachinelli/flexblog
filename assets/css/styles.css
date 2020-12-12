@@ -25,3 +25,24 @@ img {
   max-width: 100%;
 }
 
+.superinfo-bg {
+  background: #122ab2;
+  color: #ddd;
+}
+
+.superinfo {
+  max-width: 960px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+.superinfo p, .superinfo a {
+  margin: 0 10px 10px 10px;
+}
+
+.superinfo a {
+  color: #ddd;
+}
