@@ -264,3 +264,12 @@ img {
     order: -1;
   }
 }
+
+.quality {
+  max-width: 960px;
+  margin: 60px auto;
+}
+
+.quality__item {
+  
+}
