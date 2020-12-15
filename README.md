@@ -1,14 +1,14 @@
 <p align="center">
-  <img alt="Validar CPF" src=".github/banner.svg" width="200px"/>
+  <img alt="FlexBlog" src=".github/banner.svg" width="200px"/>
 <p>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/flexblog?color=219653&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/flexblog?color=219653&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
     <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%219653?color=219653&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/validarCPF?color=219653&style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/flexblog?color=219653&style=for-the-badge"/>
 <p>
 
 <p align="center">
@@ -24,15 +24,13 @@
 ## :movie_camera: **Demonstração**
 
 <p align="center">
-  <kbd><img alt="Validar CPF" src="./.github/desktop_demo.png"/></kbd>
+  <kbd><img alt="FlexBlog" src="./.github/desktop_demo.png"/></kbd>
 <p>
   
 ---
 ## :computer: Sobre
 
-Neste projeto o CPF é verificado através da fórmula que gera os digitos e compara com os recebidos. Utilizando a captura do valor do input e clique do botão, toda a lógica é executada retornando o resultado da verificação.
-
-Toda a programação foi desenvolvida para treinar os conceitos do livro Clean Code, criando funções pequenas e com nomes significativos para evitar o uso de comentários e aumentar significativamente a interpretação da lógica de funcionamento do código.
+...
 
 ---
 ## :memo: **Roteiro**
@@ -43,12 +41,7 @@ Toda a programação foi desenvolvida para treinar os conceitos do livro Clean C
 
 |      Estado      |     Tarefa    |
 |      :---:       |      :---     |
-|:heavy_check_mark:|Organização de arquivos|
-|:heavy_check_mark:|Estrutura HTML|
-|:heavy_check_mark:|Programação JavaScript para teste|
-|:heavy_check_mark:|Estilização CSS básica|
-|:heavy_check_mark:|Funções JavaScript refinada|
-|:heavy_check_mark:|Estilização refinada|
+|||
 
 </details>
 </div>
@@ -64,7 +57,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|
-|[JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)|
 
 </div>
 
