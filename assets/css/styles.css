@@ -313,3 +313,46 @@ img {
   font-size: 1.25em;
   line-height: 1.4;
 }
+
+.newsletter {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 60px calc((100% - 960px) / 2);
+
+  background: #f7f7f7;
+}
+
+.newsletter__info {
+  flex: 1 1 260px;
+  margin: 0 10px;
+}
+
+.newsletter__info h1 {
+  color: #a4a4a4;
+  font-size: 3em;
+}
+
+.newsletter__info p {
+  max-width: 230px;
+  margin-bottom: 10px;
+
+  color: #7c7c7c;
+  font-size: 1.25em;
+  font-style: italic;
+}
+
+.newsletter__form {
+  flex: 2 1 260px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  margin: 0 10px;
+}
+
+.newsletter__form input{
+  flex: 3 1 200px;
+  font-size: 1.25em;
+  color: #7c7c7c;
+  font-style: italic;
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+}
