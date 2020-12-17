@@ -333,7 +333,7 @@ img {
 }
 
 .newsletter__info p {
-  max-width: 230px;
+  max-width: 200px;
   margin-bottom: 10px;
 
   color: #7c7c7c;
@@ -374,4 +374,14 @@ img {
   cursor: pointer;
   border: 0;
   padding: 15px 10px;
+}
+
+@media (max-width: 600px) {
+  .newsletter__form button{
+    font-size: 1.5em;
+  }
+}
+
+.footer {
+
 }
