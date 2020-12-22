@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="FlexBlog" src=".github/banner.svg" width="200px"/>
+  <img alt="FlexBlog" src=".github/banner.png" width="250px"/>
 <p>
 
 <p align="center"> 
