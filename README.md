@@ -30,7 +30,7 @@
 ---
 ## :computer: Sobre
 
-...
+Site para treinar os conceitos flex do CSS3, criado no curso da Origamid.
 
 ---
 ## :memo: **Roteiro**
